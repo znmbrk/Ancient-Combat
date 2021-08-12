@@ -8,3 +8,7 @@ I had spent a long time looking for a project that would click with me and be on
 PURPOSE
 
 Since my early gaming days on my Nintendo DS and PlayStation 2, I have always enjoyed tough, fighting games with intricate special moves and awesome attacking combinations. When it comes to creating a game, it’s almost like a piece of art - you put a bit of yourself into it. It’s this visualisation of my ideas and the fact that the thoughts in my head can become a real, working game is what enthralled me to just go for it and really make this my game. Therefore, the purpose of this project is to sharpen my coding skills and use them to make my plan come to life in a game that represents me and is a part of me which others can enjoy.
+
+DIRECTIONS
+
+Download the three ".py" files and the "database.db" file as well as all the images for the various cahracters and screens and you should be able to play the game!
